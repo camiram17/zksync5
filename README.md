@@ -1,6 +1,6 @@
 ## Distribucion de tokens
 1. [Que es el tokenomic](#Que es el tokenomic)
-2. [Technologies](#technologies)
+2. [Estructura general](#Estructura general)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
